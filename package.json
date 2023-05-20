@@ -1,0 +1,29 @@
+{
+  "name": "@hexstudiosar/reqlogger",
+  "version": "0.5.5",
+  "description": "Middleware for request logging in a server.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "middleware",
+    "log",
+    "logger",
+    "request",
+    "routes",
+    "router"
+  ],
+  "author": "HexStudios",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HexStudiosAR/ReqLogger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HexStudiosAR/ReqLogger/issues"
+  },
+  "homepage": "https://github.com/HexStudiosAR/ReqLogger#readme",
+  "private": false
+}
